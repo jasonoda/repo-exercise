@@ -9,3 +9,6 @@ function getName(first, last){
 }
 
 getName(firstName, lastName);
+
+// added for second commit
+getName(firstName, lastName);
