@@ -1,5 +1,5 @@
-var firstName = "Jason";
-var lastName = "Smith"
+var firstName = "Alice";
+var lastName = "Jones"
 
 function getName(first, last){
 
