@@ -1,0 +1,15 @@
+{
+  "name": "repo-exercise",
+  "version": "1.0.0",
+  "description": "To roll back your repo, go to history, right click and select the revert option",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}
