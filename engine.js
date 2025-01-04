@@ -1,4 +1,4 @@
-var firstName = "Jason";
+var firstName = "Jay";
 var lastName = "Smith"
 
 function getName(first, last){
@@ -13,4 +13,4 @@ getName(firstName, lastName);
 // added for second commit
 getName(firstName, lastName);
 
-// this is my third commit
+// this is my forth commit
